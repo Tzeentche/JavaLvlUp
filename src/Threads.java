@@ -29,7 +29,6 @@ public void run() {
         }
 }
 
-
 //
 //class Some implements Runnable {
 //
